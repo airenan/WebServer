@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,EAAE,CAAC;EACC,KAAK,EAFF,IAAI;CAGV",
+    "sources": [
+        "arquivo.scss"
+    ],
+    "names": [],
+    "file": "arquivo.css"
+}
